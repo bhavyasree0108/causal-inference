@@ -10,21 +10,21 @@ I'll use the example of a real estate company targeting to increase prospect con
 **Example of Causal ML**
 If a prospect ends up signing lease and moving into an apartment, Causal ML helps us understand whether it was because they received a phone call, an email, or something else.
 
-Some Key Terminologies in Causal ML
+### Some Key Terminologies in Causal ML
 
-**Treatment**
+- **Treatment**
 A treatment is any specific action taken to influence behavior. In our example, treatments include personalized calls, offers or targeted email campaigns. Prospects who receive the action are called treated group.
 
-**Control Group**
+- **Control Group**
 These are prospects who *do not* receive the treatment. They might wanted to checkout the property as its in their neighborhood. This group helps us understand what would have happened without any action.
 
-**Causal Inference**
+- **Causal Inference**
 This helps us understand what actually caused a change in behavior, was it a specific treatment? Answers the most important question - "Did this really make a difference?"
 
-**Propensity Modeling**
+- **Propensity Modeling**
 This gives us the probability that a specific prospect will be chosen for a treatment.
 
-**Uplift Modeling**
+- **Uplift Modeling**
 Uplift modeling predicts *who* is likely to change their behavior - either positively or negatively because of the treatment.
 
 ### The Four Response Groups
