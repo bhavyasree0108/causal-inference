@@ -10,7 +10,7 @@ I'll use the example of a real estate company targeting to increase prospect con
 **Example of Causal ML**
 If a prospect ends up signing lease and moving into an apartment, Causal ML helps us understand whether it was because they received a phone call, an email, or something else.
 
-###Some Key Terminologies in Causal ML
+###Some Key Terminologies in Causal ML###
 **Treatment**
 A treatment is any specific action taken to influence behavior. In our example, treatments include personalized calls, offers or targeted email campaigns. Prospects who receive the action are called treated group.
 
